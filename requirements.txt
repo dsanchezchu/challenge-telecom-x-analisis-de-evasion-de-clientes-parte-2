@@ -1,0 +1,71 @@
+# Dependencias del Proyecto TelecomX - ETL & Machine Learning
+# Instalación: pip install -r requirements.txt
+
+# ========== PARTE 1: ETL ==========
+# Manipulación y análisis de datos
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualizaciones
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Manejo de APIs y datos JSON
+requests>=2.25.0
+
+# Notebook environment
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Utilidades de fechas y tiempo
+python-dateutil>=2.8.0
+
+# ========== PARTE 2: MACHINE LEARNING ==========
+# Framework principal de ML
+scikit-learn>=1.0.0
+
+# Análisis estadístico
+scipy>=1.7.0
+
+# Serialización de modelos
+pickle-mixin>=1.0.2
+
+# Métricas y evaluación avanzada
+imbalanced-learn>=0.8.0
+
+# Optimización de hiperparámetros
+optuna>=2.10.0  # Opcional - alternativa a GridSearch
+
+# ========== UTILIDADES ADICIONALES ==========
+# Progress bars
+tqdm>=4.62.0
+
+# Configuración y logging
+PyYAML>=6.0
+logging>=0.4.9.6
+
+# Análisis de memoria y rendimiento
+memory-profiler>=0.60.0
+psutil>=5.8.0
+
+# ========== DEPLOYMENT (OPCIONAL) ==========
+# API y web apps
+streamlit>=1.15.0
+flask>=2.0.0
+fastapi>=0.70.0
+uvicorn>=0.15.0
+
+# Containerización
+# docker>=5.0.0  # Descomentar si usas Docker
+
+# ========== DESARROLLO (OPCIONAL) ==========
+# Testing
+pytest>=6.2.0
+pytest-cov>=3.0.0
+
+# Code quality
+flake8>=4.0.0
+black>=22.0.0
+
+# Documentación
+mkdocs>=1.4.0
