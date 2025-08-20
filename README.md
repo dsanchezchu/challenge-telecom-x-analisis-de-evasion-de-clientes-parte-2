@@ -244,17 +244,6 @@ TelecomX-Complete/
 - Tests unitarios
 - Deployment scripts
 
-## 👨‍💻 Autor
-
-**Diego Dev**  
-- 📧 Email: [diego.dev@ejemplo.com]
-- 💼 LinkedIn: [linkedin.com/in/diego-dev]
-- 🐱 GitHub: [github.com/diego-dev]
-- 🌐 Portfolio: [diegodev.com]
-
-## 📄 Licencia
-
-Este proyecto está bajo la **Licencia MIT**. Ver `LICENSE.md` para más detalles.
 
 ## 🔗 Links Útiles
 
@@ -279,3 +268,4 @@ Este proyecto está bajo la **Licencia MIT**. Ver `LICENSE.md` para más detalle
 
 ---
 **🎯 Proyecto TelecomX - ETL & ML | Desarrollado con ❤️ para la comunidad Data Science**
+
